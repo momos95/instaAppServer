@@ -1,0 +1,8 @@
+{
+  "link": "Heure & Jour",
+  "type": "List",
+  "linkicon": "calendar",
+  "itemType": "TimeItem",
+  "apiEvent":"clientTimeEvent",
+  "list":[{"itemId":"time","title":"Heure"},{"itemId":"day","title":"Jour"}]
+}

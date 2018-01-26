@@ -1,0 +1,9 @@
+{
+  "inbox": "Ouvre ma boite de reception",
+  "spam" :"Spam",
+  "trash": "corbeille", 	
+  "unread":["Ai je de nouveaux mails","Est ce que j'ai de nouveaux mails","non lus","mes mails non lus"], 	
+  "starred": "starred", 	
+  "important": ["Mes mails importants","important"],
+  "sent":["Mes mails envoyés","Envoyés", "Boites d'envoie"] 
+}

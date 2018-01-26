@@ -1,0 +1,8 @@
+{
+  "link": "Gmail",
+  "type": "GmailPanel",
+  "linkicon": "mail",
+  "itemType": "GmailPanel",
+  "apiEvent":"clientGmailEvent",
+  "list":[{"itemId":"inbox","title":"Inbox"},{"itemId":"trash","title":"Corbeille"}]
+}
